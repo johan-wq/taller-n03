@@ -1,0 +1,41 @@
+header {
+    background-color: #e5d5d5;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+h1{
+    text align: center;
+}
+h2 {
+    text-align: center;
+    color: #b61f1f;
+}
+
+.img {
+    width: 30px;
+    height: auto;
+    border-radius: 10px; 
+    margin: 0 10px;
+
+}
+table{
+    border : 1px solid #ddd;
+    width: 100%; 
+    margin: 20px 0; 
+}
+th{
+    padding: 5px;
+    color: #1a0505;
+   background-color: rgb(212, 212, 230);
+    text-align: center;
+}
+td {
+    padding: 5px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+venta.td {
+    color: #2c2d36;
+    font-weight: bold;
+}
